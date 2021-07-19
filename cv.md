@@ -10,10 +10,13 @@
 ## *Skills*
 - HTML(Bascis)
 - GIT(Basics)
+
 ## *Working experience*
 
 ## *Education*
-2021 The RSSchool course *JS / Front-end. Stage 0*(in the process)
+- Courses
+  1. 2021 The RSSchool *JS / Front-end. Stage 0*(in the process)
+  1. ...
 ## *Language*
 - Englis - A0/A1
 - Rissian - native
