@@ -15,8 +15,9 @@
 
 ## *Education*
 - Courses
-  1. 2021 The RSSchool *JS / Front-end. Stage 0*(in the process)
+  1. 2021 The RSSchool **_JS / Front-end. Stage 0_**(in the process)
   1. ...
+
 ## *Language*
 - Englis - A0/A1
 - Rissian - native
