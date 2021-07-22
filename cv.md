@@ -17,9 +17,8 @@
 No experience in IT
 
 ## *Education*
-1. Courses
-  1. [2021 TheRSSchool JS/Front-end.Stage 0 - in the process](https://rs.school/index.html)
-  1. ...
+- Courses
+  * [2021 TheRSSchool JS/Front-end.Stage 0 - in the process](https://rs.school/index.html)
 
 ## *Language*
 - English - A0/A1
