@@ -1,1 +1,1 @@
-https://terdanigr.github.io/rsschool-cv/cv
+https://terdanigr.github.io/rsschool-cv/
